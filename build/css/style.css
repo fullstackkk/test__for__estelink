@@ -276,6 +276,7 @@ body.locked {
 
 .modal__wrapper .modal__body .text-place {
   position: absolute;
+  display: none;
 }
 
 .modal__wrapper .modal__body .address {
